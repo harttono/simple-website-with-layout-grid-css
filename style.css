@@ -65,7 +65,7 @@ img{
 .showCase{
     grid-area:showCase;
     min-height:400px;
-    background-image:url(img/pict1.jpg);
+    background-image:url(img/showCase.jpg);
     background-size:cover;
     background-position:center; 
     padding:3rem;
